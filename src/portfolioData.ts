@@ -87,7 +87,7 @@ export const navItems: NavItem[] = [
 ];
 
 export const heroStats = [
-  { value: "2+", label: "Years Experience" },
+  { value: "3", label: "Years Experience" },
   { value: "3", label: "Highlighted Projects" },
   { value: "4", label: "Companies" },
 ];
